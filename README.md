@@ -1,6 +1,6 @@
 # AppMusic
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+Este projecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 ## Development server
 
@@ -26,8 +26,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## Tecnologías
+
+Tenologías: Angular, TypeScript, HTML, Bootstrap y API Spotify.
 
 ## Capturas
+
 ![Captura de Pantalla 2021-07-22 a la(s) 0 34 11](https://user-images.githubusercontent.com/89824966/131598308-ce131da8-eb14-46b0-9836-dd81ada29e6a.png)
 
 ![Captura de Pantalla 2021-07-22 a la(s) 0 35 25](https://user-images.githubusercontent.com/89824966/131598319-9a57642c-70f8-4710-927e-5d8bc1114994.png)
